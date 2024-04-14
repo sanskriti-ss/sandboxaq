@@ -1,12 +1,12 @@
 **Our Problem**
 
-Low Efficiency of current commerical solar cells - commerical maximum is usually 15-30%. The energies of light that most conventinal materials (e.g. silicon) can absorb does not match the energy of the solar radiation that falls upon it.
+Current commercial solar cells have incredibly low efficiency, with a commercial maximum of usually 15-30%. The energies of light that most conventional materials (e.g. silicon) can absorb does not match the energy of the solar radiation that falls upon it.
 
-It is classically difficult - as you'll soon see - to calculate ground state + excited states for larger molecules. 
+It is classically difficult - as you'll soon see - to calculate ground state + excited states for larger molecules.
 
 VQE is a combination of classical and quantum algorithms so that it is extremely accurate, and takes much less time when compared to a pure classical algorithm.
 
-We set out to explore if we can we simulate more complex compounds and predict what wavelengths of solar radiation they can use?
+We are simulating compounds used for solar cells, and modelling what wavelengths of solar radiation they can store.
 
 **Our Solution** 
 
